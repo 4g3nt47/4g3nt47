@@ -1,6 +1,6 @@
 # About me
 
-My name is Umar Abdul, a 23y/o Nigerian student. I'm interested in programming, full stack web development, and cyber security.
+My name is Umar Abdul, a 23y/o Nigerian student. I'm interested in programming, cyber security, and web development.
 
 ## Skills
 
