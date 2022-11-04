@@ -1,6 +1,6 @@
 # About me
 
-Hey there! I am Umar Abdul, a 23y/o Nigerian student. I'm interested in programming, cyber security, and web development.
+Hey there! I am Umar Abdul, a Nigerian student interested in programming, cyber security, and web development.
 
 ## Skills
 
